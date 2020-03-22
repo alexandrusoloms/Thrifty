@@ -1,0 +1,7 @@
+## Interface: 11302
+## Title: Thrifty
+## Author: Alexandru-Marius Solomes
+## Version: 1.0
+
+modules\bag.lua
+thrifty.lua
